@@ -50,10 +50,10 @@ I am Tom Raes, and for the past 10 years, I have been working with pleasure at B
 - **Communication** fascinates me; it's the key to success but sometimes feels like a complex puzzle.
 
 ## Skills
-- Advanced Excel: Pivot Tables, Interactive dashboards, Advanced Formulas, Macros.
-- MS SQL Server: Maintenance of Stored Procs/Functions/Views, Database Administration, Analysis (including CTE, Windowed functions, Subqueries).
-- Power BI: DAX/Q, Datacube creation, Cloud Administration.
-- Python: Exploratory Data Analyses with Numpy, Pandas, Seaborn, MatPlotLib.
+- **Advanced Excel**: Pivot Tables, Interactive dashboards, Advanced Formulas, Macros.
+- **MS SQL Server**: Maintenance of Stored Procs/Functions/Views, Database Administration, Analysis (including CTE, Windowed functions, Subqueries).
+- **Power BI**: DAX/Q, Datacube creation, Cloud Administration.
+- **Python**: Exploratory Data Analyses with Numpy, Pandas, Seaborn, MatPlotLib.
 
 ## Professional Contributions
 Some contributions I have made at Barbas Bellfires, honing my technical competencies:
