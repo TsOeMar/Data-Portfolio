@@ -1,4 +1,4 @@
-# Welkom bij mijn Data Analyst Portfolio!
+# 🇳🇱 Welkom bij mijn Data Analyst Portfolio! 
 Ik ben Tom Raes, en al gedurende 10 jaar ben ik met plezier werkzaam bij Barbas Bellfires. Mijn reis begon als productiemedewerker en heeft me geleid naar de uitdagende rol van IT- en Data Manager. Met mijn sterke voorkeur voor "het leren door te doen", heb ik daarom mijn eigen data-analist portfolio gecreëerd. Hierin deel ik niet alleen de vaardigheden die ik in de afgelopen jaren heb geleerd en toegepast, maar gebruik ik het ook als een bron van voortdurende uitdaging om nieuwe projecten, technieken en tools te blijven leren. Het portfolio blijft daarom een work-in-progress, maar neem gerust een kijkje en ontdek waar ik op dit moment sta! 
 
 ## Een korte introductie:
@@ -37,7 +37,7 @@ Enkele bijdragen die ik bij Barbas Bellfires heb geleverd en daarmee mijn compet
 - **Udemy - Microsoft Power BI Course** (2023): In-House trainingstraject doorlopen met collega's, waarbij mijn kennis en ervaring juist ingezet werdt als instructeur dan cursist. 
 __________________________________________________________________________________________________________________
 
-# Welcome to My Data Analyst Portfolio!
+# 🇬🇧 Welcome to My Data Analyst Portfolio!
 I am Tom Raes, and for the past 10 years, I have been working with pleasure at Barbas Bellfires. My journey began as a production worker and has led me to the challenging role of IT and Data Manager. Due to my strong preference for "learning by doing," I have created my own data analyst portfolio. In this space, I not only share the skills I have learned and applied over the years but also use it as a source of continuous challenge to explore new projects, techniques, and tools. The portfolio is a work-in-progress, but feel free to take a look and discover where I currently stand!
 
 ## A Brief Introduction
