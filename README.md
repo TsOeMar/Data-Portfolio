@@ -32,9 +32,9 @@ Enkele bijdragen die ik bij Barbas Bellfires heb geleverd en daarmee mijn compet
 - **Productiemedewerker - Logistiek** (2013-2014): Betrokken bij de fysieke goederenstroom binnen het bedrijf.
 
 ## Opleidingstraject
-- **NCOI Industrial Engineering & Management** (2018): Als cruciale schakel tussen de operationele werkvloer en het ERP-systeem, heb ik mijn focus op procesanalyse en streven naar efficiëntie versterkt.
-- **DataCamp Data Analyst/Scientist Course** (2021/2022): Na twee jaar functioneel ervaring als applicatiebeheerder, heb ik mijn expertise in data-analyse en -science (met Python/SQL) uitgebreid.
 - **Udemy - Microsoft Power BI Course** (2023): In-House trainingstraject doorlopen met collega's, waarbij mijn kennis en ervaring juist ingezet werdt als instructeur dan cursist. 
+- **DataCamp Data Analyst/Scientist Course** (2021/2022): Na twee jaar functioneel ervaring als applicatiebeheerder, heb ik mijn expertise in data-analyse en -science (met Python/SQL) uitgebreid.
+- **NCOI Industrial Engineering & Management** (2018): Als cruciale schakel tussen de operationele werkvloer en het ERP-systeem, heb ik mijn focus op procesanalyse en streven naar efficiëntie versterkt.
 __________________________________________________________________________________________________________________
 
 # Welcome to My Data Analyst Portfolio!
@@ -71,6 +71,6 @@ Some contributions I have made at Barbas Bellfires, honing my technical competen
 - **Production Employee - Logistics** (2013-2014): Involved in the physical goods flow within the company.
 
 ## Education Journey
-- **NCOI Industrial Engineering & Management** (2018): Serving as a crucial link between the operational floor and the ERP system, I strengthened my focus on process analysis and efficiency.
-- **DataCamp Data Analyst/Scientist Course** (2021/2022): After two years of functional experience as an application manager, I expanded my expertise in data analysis and science (with Python/SQL).
 - **Udemy - Microsoft Power BI Course** (2023): Completed an in-house training program with colleagues, where my knowledge and experience were utilized not just as a participant but also as an instructor.
+- - **DataCamp Data Analyst/Scientist Course** (2021/2022): After two years of functional experience as an application manager, I expanded my expertise in data analysis and science (with Python/SQL).
+- **NCOI Industrial Engineering & Management** (2018): Serving as a crucial link between the operational floor and the ERP system, I strengthened my focus on process analysis and efficiency.
